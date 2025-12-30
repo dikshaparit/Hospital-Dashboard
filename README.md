@@ -1,21 +1,18 @@
-📌 Project Overview
+## 📌 Project Overview
 
 This Power BI project provides a complete Hospital Management Analytics Dashboard to track hospital performance, patient details, doctor activity, resource utilization, and revenue trends using interactive visuals.
 
-🧰 Tools Used
+## 🧰 Tools Used
 
 Power BI
 
-Excel / CSV Dataset
+Excel Dataset
 
 Power Query
 
 DAX
 
-📊 Dashboard Screens & Details
-🧭 Hospital Menu
-
-![Hospital Menu](screenshots/1.Hospital Menu.png)
+## 🧭 Hospital Menu
 
 Description:
 This page acts as the main navigation panel of the dashboard.
@@ -31,7 +28,7 @@ Resource
 
 It improves user experience by providing a clean and structured layout.
 
-🏠 Home Page – Executive Overview
+## 🏠 Home Page – Executive Overview
 
 Description:
 The Home page provides a high-level summary of hospital performance.
@@ -60,7 +57,7 @@ Revenue by City
 
 This page is mainly designed for management and decision-makers.
 
-🏥 Resource Management
+## 🏥 Resource Management
 
 Description:
 This page focuses on hospital resource availability.
@@ -83,7 +80,7 @@ Department-wise resource utilization
 
 This helps in capacity planning and operational efficiency.
 
-👨‍⚕️ Doctor Dashboard
+## 👨‍⚕️ Doctor Dashboard
 
 Description:
 This page analyzes doctor performance and specialties.
@@ -108,7 +105,7 @@ Specialty
 
 This page helps understand workload distribution among doctors.
 
-🧑‍🤝‍🧑 Patient Dashboard
+## 🧑‍🤝‍🧑 Patient Dashboard
 
 Description:
 This page provides detailed patient analytics.
@@ -129,13 +126,13 @@ Patients by department
 
 It helps hospitals improve patient care and admission planning.
 
-🎯 Tooltip Analysis
+## 🎯 Tooltip Analysis
 
 Description:
 Custom tooltip used to show Patient Count by Specialty when hovering over visuals.
 This improves interactivity and user experience without cluttering the main dashboard.
 
-🎛 Filters & Interactivity
+## 🎛 Filters & Interactivity
 
 City
 
@@ -151,7 +148,7 @@ Resource Type
 
 All visuals are fully interactive and cross-filtered.
 
-📈 Key Insights
+## 📈 Key Insights
 
 Higher revenue from older age group
 
@@ -163,5 +160,18 @@ ICU and Emergency departments show high utilization
 
 Balanced usage of Cash, Card, and Insurance payments
 
-📷 Screenshot
+## 📸 Report Screenshots
+
+### 1️⃣ Hospital Menu Page
+![Hospital Menu](screenshots/1.Hospital Menu.png)
+
+### 2️⃣ Patients Page
+![Transaction Page](Screenshots/2.Transaction.png)
+
+### 3️⃣ User Page
+![User Page](Screenshots/3.User.png)
+
+## 👤 Created By
+**Diksha Parit**  
+Aspiring Data Analyst | Power BI Developer
 
