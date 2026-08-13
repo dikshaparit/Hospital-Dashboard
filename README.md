@@ -163,13 +163,10 @@ Balanced usage of Cash, Card, and Insurance payments
 ## 📸 Report Screenshots
 
 ### 1️⃣ Hospital Menu Page
-![Hospital Menu](Screenshots/1.Hospital Menu.png)
 
 ### 2️⃣ Patients Page
-![Transaction Page](Screenshots/2.Transaction.png)
 
 ### 3️⃣ User Page
-![User Page](Screenshots/3.User.png)
 
 ## 👤 Created By
 **Diksha Parit**  
