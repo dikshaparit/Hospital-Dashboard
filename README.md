@@ -168,6 +168,12 @@ Balanced usage of Cash, Card, and Insurance payments
 
 ### 3️⃣ User Page
 
+### 3️⃣ Doctore Page
+
+### 3️⃣ Patient Page
+
+### 3️⃣ Tooltip 
+
 ## 👤 Created By
 **Diksha Parit**  
 Aspiring Data Analyst | Power BI Developer
